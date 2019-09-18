@@ -1,0 +1,9 @@
+/* body {
+  background-image: url(https://uprootcdn.sfo2.cdn.digitaloceanspaces.com/exchangeposter.jpg);
+  background-repeat: no-repeat;
+ } */
+
+ .pic img {
+  width: 100%;
+  display: block;
+}
